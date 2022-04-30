@@ -18,7 +18,7 @@ body {
     'Noto Serif SC', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
     'Droid Sans', 'Helvetica Neue', 'Noto Sans', sans-serif;
   */
-  --notion-font: 'Noto Serif SC';
+  --notion-font: 'Noto Serif SC', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   font-family: var(--notion-font);
   overflow-x: hidden;
 }
