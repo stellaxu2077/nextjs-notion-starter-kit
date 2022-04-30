@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Lost in Beleriand',
   domain: 'https://www.notion.so/Home-a03b1d808fd546bfb728407fa2fcfc6d',
-  author: 'Vermouth',
+  author: 'Kyrie1169',
 
   // open graph metadata (optional)
   description: '同人创作存档',
