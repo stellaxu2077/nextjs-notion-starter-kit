@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lost in Beleriand',
+  name: 'Rosenschmelzfeuer',
   domain: 'https://www.notion.so/Home-a03b1d808fd546bfb728407fa2fcfc6d',
-  author: 'Kyrie1169',
+  author: 'Charon',
 
   // open graph metadata (optional)
   description: '同人创作存档',
